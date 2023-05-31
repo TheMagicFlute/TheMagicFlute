@@ -6,28 +6,35 @@ A Shanghai native programmer
 
 - 🔭 I’m currently working on Cpp, Python, HTML
 - 🌱 I’m currently learning Cpp, Python, HTML, JavaScript, node.js, GameMaker: Studio (GameMakerLanguage), NSIS
-- 🎯 I plan to learn Electron, TypeScript, Vue.js, MySQL, Go
+- 🎯 I plan to learn Electron, TypeScript, Vue.js, MySQL, Go, Ruby
 - 💬 Ask me about programming and something about Shanghai
 - 📫 How to reach me - my email: TheMagicFlute@outlook.com
 
 ## Favourite 🎶
 
-### Programming languages
+### Programming language
 
 ![Cpp](https://img.shields.io/badge/-Cpp-D783FF?style=flat-square&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F4D500?style=flat-square&logo=javascript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.JS-40BA82?style=flat-square&logo=Vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.JS-8CC03E?style=flat-square&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-007096?style=flat-square&logo=mysql&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-73CCDC?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-0078D6?style=flat-square&logo=Python&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-C60000?style=flat-square&logo=ruby&logoColor=white)
 
+### Framework
+
+![Vue.js](https://img.shields.io/badge/-Vue.JS-40BA82?style=flat-square&logo=Vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.JS-8CC03E?style=flat-square&logo=node.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-0078D6?style=flat-square&logo=Electron&logoColor=white)
 
 ### System
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+
+![Linux](https://img.shields.io/badge/-Linux-AAA?style=flat-square&logo=Linux&logoColor=white)
+![MacOS](https://img.shields.io/badge/-Mac_OS-AAA?style=flat-square&logo=macos&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-DD4814?style=flat-square&logo=ubuntu&logoColor=white)
 
 ### IDE & Tools
 
