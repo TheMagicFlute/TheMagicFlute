@@ -14,7 +14,7 @@ A Shanghai native programmer, piano player
 
 ### Programming language
 
-![Cpp](https://img.shields.io/badge/-Cpp-D783FF?style=flat-square&logoColor=white)
+![C++](https://img.shields.io/badge/-Cpp-D783FF?style=flat-square&logo=c%2b%2b&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F4D500?style=flat-square&logo=javascript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-007096?style=flat-square&logo=mysql&logoColor=white)
