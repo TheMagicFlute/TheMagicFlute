@@ -2,7 +2,7 @@
 
 ## Description 👍
 
-A Shanghai native programmer
+A Shanghai native programmer, piano player
 
 - 🔭 I’m currently working on Cpp, Python, HTML
 - 🌱 I’m currently learning Cpp, Python, HTML, JavaScript, node.js, GameMaker: Studio (GameMakerLanguage), NSIS
