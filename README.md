@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![GitHub README Stars](https://img.shields.io/github/stars/TheMagicFlute/TheMagicFlute?logo=github)
+
 ## Description 👍
 
 A Shanghai native programmer, piano player
