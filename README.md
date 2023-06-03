@@ -6,6 +6,9 @@
 
 ## Description 👍
 
+~~A full stuck developer~~
+
+
 A Shanghai native programmer, piano player
 
 - 🔭 I’m currently working on Cpp, Python, HTML
