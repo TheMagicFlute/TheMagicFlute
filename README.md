@@ -1,6 +1,8 @@
 # Hi there 👋
 
 ![GitHub README Stars](https://img.shields.io/github/stars/TheMagicFlute/TheMagicFlute?logo=github)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TheMagicFlute.TheMagicFlute)
+![Hits](https://hits.dwyl.com/TheMagicFlute/TheMagicFlute.svg?style=flat-square)
 
 ## Description 👍
 
