@@ -6,7 +6,7 @@
 
 ## Description 👍
 
-~~A full stuck developer~~
+~~A fullstuck developer~~
 
 
 A Shanghai native programmer, piano player
