@@ -5,6 +5,9 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TheMagicFlute.TheMagicFlute)
 ![Hits](https://hits.dwyl.com/TheMagicFlute/TheMagicFlute.svg?style=flat-square)
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello_from_TheMagicFlute!;)](https://git.io/typing-svg)
+
 ## Description 👍
 
 ~~A fullstuck developer~~
