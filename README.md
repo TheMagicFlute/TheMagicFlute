@@ -12,6 +12,7 @@
 
 ~~A fullstuck developer~~
 
+Most of my projects are closed source.
 
 A Shanghai native programmer, piano player
 
