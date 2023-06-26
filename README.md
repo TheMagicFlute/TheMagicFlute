@@ -79,7 +79,7 @@ A Shanghai native programmer, piano player
 
 NONE
 
-## My stars ✨
+## My stats ✨
 
 <img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=TheMagicFlute&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" />
 
