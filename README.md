@@ -14,10 +14,10 @@
 
 Most of my projects are closed source.
 
-A Shanghai native programmer, piano player
+A Shanghai native programmer, piano player.
 
 - 🔭 I’m currently working on Cpp, Python, HTML
-- 🌱 I’m currently learning Cpp, Python, HTML, JavaScript, node.js, GameMaker: Studio (GameMakerLanguage), NSIS
+- 🌱 I’m currently learning Cpp, Python, HTML, JavaScript, Css, Node.js, GameMaker: Studio (GameMakerLanguage), NSIS
 - 🎯 I plan to learn Electron, TypeScript, Vue.js, MySQL, Go, Ruby
 - 💬 Ask me about programming and something about Shanghai
 - 📫 How to reach me - my email: TheMagicFlute@outlook.com
