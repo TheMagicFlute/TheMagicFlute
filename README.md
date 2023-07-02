@@ -1,7 +1,7 @@
 # Hi there 👋
 [![GitHub watchers](https://img.shields.io/github/watchers/TheMagicFlute/TheMagicFlute.svg?style=social&label=Watch)](https://github.com/TheMagicFlute/TheMagicFlute)
 [![GitHub forks](https://img.shields.io/github/forks/TheMagicFlute/TheMagicFlute.svg?style=social)](https://github.com/TheMagicFlute/TheMagicFlute/network/members)
-[![GitHub stars](https://img.shields.io/github/stars/TheMagicFlute/TheMagicFlute.svg?style=social)](https://github.com/cjh0613/TheMagicFlute/TheMagicFlute/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/TheMagicFlute/TheMagicFlute.svg?style=social)](https://github.com/TheMagicFlute/TheMagicFlute/stargazers)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TheMagicFlute.TheMagicFlute)
 ![Hits](https://hits.dwyl.com/TheMagicFlute/TheMagicFlute.svg?style=flat-square)
 
