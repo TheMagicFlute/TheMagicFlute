@@ -57,18 +57,24 @@ A Shanghai native programmer, piano player.
 
 ### Musicians
 
-- Franz Liszt
-- Claude Debussy
-- Franz Joseph Haydn
-- Johann Sebastian Bach
-- Ludwig Van Beethoven
-- Wolfgang Amadeus Mozart
-- Pyotr Ilyich Tchaikovsky
-- Sergei Vassilievitch Rachmaninoff
-- Dmitri Shostakovich
-- Frederic Chopin
-- Franz Seraphicus Peter Schubert
-- Antonio Lucio Vivaldi
+- ~~Franz Liszt~~
+- ~~Claude Debussy~~
+- ~~Franz Joseph Haydn~~
+- ~~Johann Sebastian Bach~~
+- ~~Ludwig Van Beethoven~~
+- ~~Wolfgang Amadeus Mozart~~
+- ~~Pyotr Ilyich Tchaikovsky~~
+- ~~Sergei Vassilievitch Rachmaninoff~~
+- ~~Dmitri Shostakovich~~
+- ~~Frederic Chopin~~
+- ~~Franz Seraphicus Peter Schubert~~
+- ~~Antonio Lucio Vivaldi~~
+
+
+trush.
+
+
+# DT is the GOD
 
 ### Other
 
