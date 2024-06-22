@@ -1,3 +1,6 @@
+# 失敗的kartrider玩家
+我真是廢ㄌ.端游不會跑ㄌ,手游也好拉.:(
+<!--
 # Hi there 👋
 [![GitHub watchers](https://img.shields.io/github/watchers/TheMagicFlute/TheMagicFlute.svg?style=social&label=Watch)](https://github.com/TheMagicFlute/TheMagicFlute)
 [![GitHub forks](https://img.shields.io/github/forks/TheMagicFlute/TheMagicFlute.svg?style=social)](https://github.com/TheMagicFlute/TheMagicFlute/network/members)
@@ -89,15 +92,15 @@ NONE
 
 <img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=TheMagicFlute&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" />
 
-<!--
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMagicFlute&hide_title=false&hide_border=false&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
--->
+
 
 <img align="" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMagicFlute&size_weight=0.5&count_weight=0.5&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en"/>
 
 ## Find me on
 
 <a href="https://github.com/TheMagicFlute" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+-->
 
 <!--
 **TheMagicFlute/TheMagicFlute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
