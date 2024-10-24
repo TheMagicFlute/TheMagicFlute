@@ -1,5 +1,4 @@
-# 失敗的kartrider玩家
-我真是廢ㄌ.端游不會跑ㄌ,手游也好拉.:(
+# A JOKER
 <!--
 # Hi there 👋
 [![GitHub watchers](https://img.shields.io/github/watchers/TheMagicFlute/TheMagicFlute.svg?style=social&label=Watch)](https://github.com/TheMagicFlute/TheMagicFlute)
