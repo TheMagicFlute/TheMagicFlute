@@ -1,4 +1,4 @@
-# A JOKER
+# HAVE FUN HERE
 <!--
 # Hi there 👋
 [![GitHub watchers](https://img.shields.io/github/watchers/TheMagicFlute/TheMagicFlute.svg?style=social&label=Watch)](https://github.com/TheMagicFlute/TheMagicFlute)
